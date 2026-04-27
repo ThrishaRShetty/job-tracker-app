@@ -1,16 +1,17 @@
-# job_tracker
+# Job Tracker App (Flutter)
 
-A new Flutter project.
+A Flutter-based app to manage job applications.
 
-## Getting Started
+## Features
+- Add, Edit, Delete Jobs
+- Search Jobs
+- Filter by Status
+- Local Storage using SharedPreferences
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Dart
+- SharedPreferences
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Description
+This app helps users track job applications efficiently with clean UI and persistent storage.
